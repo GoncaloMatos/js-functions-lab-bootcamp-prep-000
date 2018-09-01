@@ -1,3 +1,3 @@
-function happyHolydays() {
-  return `${greeting}, ${firstName}!`
+function happyHolydays(Happy holydays!) {
+  return `Happy holydays!`
 }
