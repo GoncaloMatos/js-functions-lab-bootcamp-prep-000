@@ -1,4 +1,3 @@
-var happyHolydays = `Happy holydays!`
-function happyHolydays() {
-  return `Happy holydays!`
+function happyHolydays(name) {
+  return `Happy holydays, ${name}!`
 }
