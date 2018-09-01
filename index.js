@@ -1,3 +1,3 @@
-function happyHolydays() {
-  return `Happy holydays!`
+function say(greeting, firstName) {
+  return `${greeting}, ${firstName}!`
 }
